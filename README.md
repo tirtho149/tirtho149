@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Tirtho Roy, a Computer Science student at Iowa
 
 ## 📚 Education
 - 🎓 **Bachelor of Science in Computer Science**
-  - Iowa State University (Class of 2027)
+  - Iowa State University (Class of 2026)
   - Relevant Course:Introduction to programming using python and c,object-oriented programming using java
 
 - 🎓 **Higher Secondary Education**
